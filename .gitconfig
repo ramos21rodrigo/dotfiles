@@ -1,0 +1,11 @@
+[include]
+  path = ~/personal/.gitconfig
+[includeIf "gitdir:~/documents/"]
+  path = ~/ctw/.gitconfig
+
+[core]
+	editor = nvim
+[credential]
+	helper = store
+[init]
+	defaultBranch = master
