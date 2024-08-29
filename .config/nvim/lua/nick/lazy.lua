@@ -13,28 +13,21 @@ vim.opt.rtp:prepend(lazypath)
 
 
 local plugins = {
-  {
-    'nvim-telescope/telescope.nvim',
-    branch = '0.1.x',
-    dependencies = { 'nvim-lua/plenary.nvim' },
-  },
+  {'nvim-telescope/telescope.nvim', branch = '0.1.x', dependencies = { 'nvim-lua/plenary.nvim' } },
+  {"ibhagwan/fzf-lua", dependencies = { "nvim-tree/nvim-web-devicons" } },
+  {'nvim-treesitter/nvim-treesitter', build = ':TSUpdate' },
+  {'saadparwaiz1/cmp_luasnip' },
+  {"folke/trouble.nvim" },
+  {"catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  {'mbbill/undotree'},
+  {'tpope/vim-fugitive' },
+  {"ibhagwan/fzf-lua", requires = { "nvim-tree/nvim-web-devicons" } },
+  {'christoomey/vim-tmux-navigator'},
+  {'m4xshen/autoclose.nvim'},
+  {'rafamadriz/friendly-snippets'},
+  {'xiyaowong/telescope-emoji.nvim'},
+  {'xiyaowong/transparent.nvim'},
 
-  {
-    "ibhagwan/fzf-lua",
-    dependencies = { "nvim-tree/nvim-web-devicons" },
-  },
-
-  { 'nvim-treesitter/nvim-treesitter', build = ':TSUpdate' },
-  'saadparwaiz1/cmp_luasnip',
-  "folke/trouble.nvim",
-  { "catppuccin/nvim",                 name = "catppuccin", priority = 1000 },
-  'mbbill/undotree',
-  'tpope/vim-fugitive',
-  'christoomey/vim-tmux-navigator',
-  'm4xshen/autoclose.nvim',
-  'rafamadriz/friendly-snippets',
-  'xiyaowong/telescope-emoji.nvim',
-  'xiyaowong/transparent.nvim',
   {
     'VonHeikemen/lsp-zero.nvim',
     branch = 'v2.x',
