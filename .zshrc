@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$PATH:/ctw/scripts"
+export PATH="$PATH:/home/rodrigodomelo/ctw/scripts"
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -72,7 +72,9 @@ TERMINAL="gnome-terminal"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+#
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting )
+# plugins=(zsh-autocomplete fast-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -114,3 +116,6 @@ themes ()
 eval "$(zoxide init zsh)"
 export DISPLAY=:0
 
+
+# zsh-autosuggestions
+bindkey '^y' autosuggest-accept

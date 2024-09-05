@@ -9,3 +9,7 @@
 	helper = store
 [init]
 	defaultBranch = master
+[url "git@cc-github.bmwgroup.net:"]
+	insteadOf = https://cc-github.bmwgroup.net/
+[pull]
+	rebase = true
