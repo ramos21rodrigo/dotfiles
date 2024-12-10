@@ -1,6 +1,5 @@
 local key = vim.keymap
 
-key.set("n", "<leader>pv", ":Ex<CR>", { desc = '[p]roject [v]iew' })
 key.set("n", "<leader>u", ":UndotreeShow<CR>")
 
 key.set("v", "a", "<C-c>ggVG")
@@ -14,12 +13,9 @@ key.set("n", "n", "nzzzv")
 
 key.set("x", "<leader>p", "\"_dP")
 
-key.set("n", "<leader>vq", "<C-w>q")
+key.set("n", "<leader>q", "<C-w>q", { desc = '[Q]uit window ig' })
 
 key.set("n", "<leader>/", ":noh<CR>")
-
--- Split view
-key.set("n", "<leader>vu", ":UndotreeShow<CR>1<C-w>w")
 
 key.set("n", "<leader>v", "<C-w>")
 key.set("n", "<leader>v1", "1<C-w>w")

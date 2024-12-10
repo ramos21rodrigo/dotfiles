@@ -1,8 +1,7 @@
-local keymap = vim.keymap
-keymap.set("n", "<leader>g", ":G<CR>")
-
 return {
-  'tpope/vim-fugitive'
+  'tpope/vim-fugitive',
+  keys = {
+    { "<leader>g", ":G<CR>", mode = "n" }
+  },
+  lazy = false
 }
-
-

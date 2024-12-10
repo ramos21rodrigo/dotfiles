@@ -1,9 +1,14 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$PATH:/home/rodrigodomelo/ctw/scripts"
+export PATH="$PATH:~/.local"
+export PATH="$PATH:$HOME/ctw/scripts"
+export PATH="$PATH:$HOME/.local/share/pipx/venvs/spotify-cli-linux/bin"
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+
+# Ctw
+source ~/ctw/scripts/init
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -16,7 +21,7 @@ TERMINAL="gnome-terminal"
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
 # If set to an empty array, this variable will have no effect.
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+#ZSH_THEME_RANDOM_CANDIDATES=("cloud")
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -43,7 +48,7 @@ TERMINAL="gnome-terminal"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+ ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # You can also set it to another string to have that shown instead of the default red dots.
@@ -104,18 +109,23 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-vim () {
-	nvim "$1"	
-}
-
 themes ()
 {
   bash -c "$(wget -qO- https://git.io/vQgMr)"
 }
 
 eval "$(zoxide init zsh)"
-export DISPLAY=:0
+alias cd="z"
+alias cdi="zi"
 
+vim () {
+  nvim "$1"
+}
+
+studio ()
+{
+  sh /opt/android-studio/bin/studio.sh "$1" > /dev/null 2>&1 &                                                                                                   
+}
 
 # zsh-autosuggestions
 bindkey '^y' autosuggest-accept

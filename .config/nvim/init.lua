@@ -11,7 +11,9 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("nick")
+require("set")
+require("remap")
+
 require("lazy").setup("plugins")
 
-vim.cmd.colorscheme "catppuccin"
+vim.cmd.colorscheme "catppuccin-frappe"

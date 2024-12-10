@@ -1,29 +1,27 @@
+vim.diagnostic.config({
+  signs = false
+})
+
 return {
-    'VonHeikemen/lsp-zero.nvim',
-    branch = 'v2.x',
-    dependencies = {
-      -- LSP Support
-      { 'neovim/nvim-lspconfig' }, -- Required
+  'VonHeikemen/lsp-zero.nvim',
+  lazy = false,
+  branch = 'v1.x',
+  dependencies = {
+    -- LSP support
+    { 'neovim/nvim-lspconfig' }, -- Required
+    { "williamboman/nvim-lsp-installer" },
+  },
+  keys = {
+    { 'K',          '<cmd>lua vim.lsp.buf.hover()<cr>' },
+    { 'gd',         '<cmd>lua vim.lsp.buf.definition()<cr>' },
+    { 'gD',         '<cmd>lua vim.lsp.buf.declaration()<cr>' },
+    { 'gi',         '<cmd>lua vim.lsp.buf.implementation()<cr>' },
+    { 'go',         '<cmd>lua vim.lsp.buf.type_definition()<cr>' },
+    { 'gr',         '<cmd>lua vim.lsp.buf.references()<cr>' },
+    { 'gs',         '<cmd>lua vim.lsp.buf.signature_help()<cr>' },
+    { '<F2>',       '<cmd>lua vim.lsp.buf.rename()<cr>' },
+    { '<F3>',       '<cmd>lua vim.lsp.buf.format({async = true})<cr>' },
+    { '<leader>ca', '<cmd>lua vim.lsp.buf.code_action()<cr>' }
+  }
 
-      -- Autocompletion
-      {
-        'hrsh7th/nvim-cmp',
-        config = function()
-          require 'cmp'.setup {
-            snippet = {
-              expand = function(args)
-                require 'luasnip'.lsp_expand(args.body)
-              end
-            },
-
-            sources = {
-              { name = 'luasnip' },
-              -- more sources
-            },
-          }
-        end
-      },                          -- Required
-      { 'hrsh7th/cmp-nvim-lsp' }, -- Required
-      { 'L3MON4D3/LuaSnip' },     -- Required
-   }
- }
+}
