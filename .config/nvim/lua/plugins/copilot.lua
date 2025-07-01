@@ -1,0 +1,38 @@
+return {}
+--return {
+--  {
+--    "CopilotC-Nvim/CopilotChat.nvim",
+--    branch = "canary",
+--    dependencies = {
+--      { "github/copilot.vim" },    -- or github/copilot.vim
+--      { "nvim-lua/plenary.nvim" }, -- for curl, log wrapper
+--    },
+--    opts = {
+--      debug = true,     -- Enable debugging
+--      show_help = true, -- Show help actions
+--      window = {
+--        layout = "float",
+--      },
+--      auto_follow_cursor = false, -- Don't follow the cursor after getting response
+--    },
+--    event = "VeryLazy",
+--    keys = {
+--      { mode = { "n", "i", "v" }, "<leader>ce", "<cmd>CopilotChatExplain<cr>",       desc = "[C]opilotChat [E]xplain code" },
+--      { mode = { "n", "i", "v" }, "<leader>cr", "<cmd>CopilotChatReview<cr>",        desc = "[C]opilotChat [R]eview code" },
+--      { mode = { "n", "i", "v" }, "<leader>cn", "<cmd>CopilotChatBetterNamings<cr>", desc = "[C]opilotChat [B]etter Naming" },
+--      { mode = { "n", "i", "v" }, "<leader>cf", "<cmd>CopilotChatFix<cr>",           desc = "[C]opilotChat [F]ix" },
+--      {
+--        mode = { "n", "i", "v" },
+--        "<leader>cc",
+--        function()
+--          local input = vim.fn.input("> ")
+--          if input ~= "" then
+--            vim.cmd("CopilotChat " .. input)
+--          end
+--        end,
+--        desc = "CopilotChat - Ask input",
+--      },
+--      { "<leader>ct", "<cmd>CopilotChatToggle<cr>", desc = "[C]opilotChat [T]oggle" },
+--    },
+--  },
+--}

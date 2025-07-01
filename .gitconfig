@@ -7,12 +7,14 @@
 
 [core]
 	editor = nvim
+	protectNTFS = false
+	longpaths = true
 [credential]
 	helper = store
 [init]
 	defaultBranch = master
-[url "git@cc-github.bmwgroup.net:"]
-	insteadOf = https://cc-github.bmwgroup.net/
+#[url "git@cc-github.bmwgroup.net:"]
+#	insteadOf = https://cc-github.bmwgroup.net/
 [pull]
 	rebase = true
 [filter "lfs"]
@@ -20,8 +22,9 @@
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
-
-[http "http://asc-repo.bmwgroup.net"]
-    extraHeader = "X-Authorization: Bearer wp_0acXh6NHJ4Mw6dTAf3IjgI7QBgztP7BYXoRX24MBq4Kr5F0cwmF5e075f6YKzfdR6QFI1fIhtNwy"
-[http "https://asc-repo.bmwgroup.net"]
-    extraHeader = "X-Authorization: Bearer wp_0acXh6NHJ4Mw6dTAf3IjgI7QBgztP7BYXoRX24MBq4Kr5F0cwmF5e075f6YKzfdR6QFI1fIhtNwy"
+[user]
+	email = rodrigo.ramos@ctw.bmwgroup.com
+	name = Rodrigo Ramos
+[safe]
+	directory = .repo/repo.tmp
+	directory = *

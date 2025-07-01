@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$PATH:~/.local"
+export PATH="$PATH:$HOME/.local/bin"
 export PATH="$PATH:$HOME/ctw/scripts"
 export PATH="$PATH:$HOME/.local/share/pipx/venvs/spotify-cli-linux/bin"
 
@@ -78,7 +78,7 @@ TERMINAL="gnome-terminal"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 #
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting )
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 # plugins=(zsh-autocomplete fast-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
@@ -111,6 +111,7 @@ source $ZSH/oh-my-zsh.sh
 
 themes ()
 {
+  export TERMINAL=kitty
   bash -c "$(wget -qO- https://git.io/vQgMr)"
 }
 
@@ -129,3 +130,7 @@ studio ()
 
 # zsh-autosuggestions
 bindkey '^y' autosuggest-accept
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

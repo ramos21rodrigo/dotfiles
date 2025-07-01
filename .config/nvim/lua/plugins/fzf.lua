@@ -9,5 +9,5 @@ return {
     { "<leader>fW", ":FzfLua grep_cword<CR>", desc = "[F]ind [W]ord under cursor" },
     { "<leader>fr", ":FzfLua resume<CR>",     desc = "[F]ind [R]esume" },
     { "<leader>fb", ":FzfLua buffers<CR>",    desc = "[F]ind in [B]uffers" }
-  }
+  },
 }

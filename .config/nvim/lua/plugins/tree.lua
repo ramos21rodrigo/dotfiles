@@ -6,6 +6,7 @@ return {
     "nvim-tree/nvim-web-devicons",
   },
   config = function()
+    require("nvim-tree.view").View.winopts.relativenumber = true
     require("nvim-tree").setup {
       sort = {
         sorter = "case_sensitive",

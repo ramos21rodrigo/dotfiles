@@ -21,6 +21,16 @@ local function load_if_android()
         compilationDatabasePath =
         "/android/apinext/src/apinext-aosp-mainline/Android/out/soong/development/ide/compdb/"
       },
+      cmd = {
+        "clangd",
+        "--background-index=false",
+        "--clang-tidy",
+        "--header-insertion=iwyu",
+        "--completion-style=detailed",
+        "--function-arg-placeholders",
+        "-j1",
+        "--fallback-style=llvm",
+      },
     })
   else
     lspconfig.clangd.setup({})

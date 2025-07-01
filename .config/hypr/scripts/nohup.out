@@ -1,0 +1,591 @@
+[2025-06-18 16:33:17.478] [info] Using configuration file /home/rodrigogamer/.config/waybar/config
+[2025-06-18 16:33:17.478] [info] Including resource file: $HOME/.config/waybar/Modules
+[2025-06-18 16:33:17.479] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2025-06-18 16:33:17.480] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2025-06-18 16:33:17.481] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2025-06-18 16:33:17.481] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2025-06-18 16:33:17.492] [info] Discovered appearance 'dark'
+[2025-06-18 16:33:17.492] [info] Using CSS file /home/rodrigogamer/.config/waybar/style.css
+[2025-06-18 16:33:17.597] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-18 16:33:17.613] [info] Hyprland IPC starting
+[2025-06-18 16:33:17.614] [error] Hyprland IPC: Unable to connect?
+[2025-06-18 16:33:17.614] [warning] module hyprland/workspaces#rw: Disabling module "hyprland/workspaces#rw", Hyprland IPC: Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.649] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.650] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-06-18 16:33:17.734] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-18 16:33:17.741] [warning] module hyprland/workspaces#rw: Disabling module "hyprland/workspaces#rw", Hyprland IPC: Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.813] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:33:17.814] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.241: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.242: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.242: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.246: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.246: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.247: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.248: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:33:18.248: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-06-18 16:33:18.322] [info] Bar configured (width: 2544, height: 34) for output: eDP-1
+[2025-06-18 16:33:18.323] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+[2025-06-18 16:38:30.183] [info] Bar removed from output: DP-7
+[2025-06-18 16:38:34.744] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-18 16:38:34.747] [warning] module hyprland/workspaces#rw: Disabling module "hyprland/workspaces#rw", Hyprland IPC: Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.813] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:38:34.814] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-06-18 16:38:34.973] [info] Bar configured (width: 3424, height: 33) for output: DP-7
+[2025-06-18 16:38:35.012] [warning] Requested height: 33 is less than the minimum height: 34 required by the modules
+[2025-06-18 16:38:35.013] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.020: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.022: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:586106): Gtk-CRITICAL **: 16:38:35.022: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-06-18 16:40:44.581] [info] Using configuration file /home/rodrigogamer/.config/waybar/config
+[2025-06-18 16:40:44.581] [info] Including resource file: $HOME/.config/waybar/Modules
+[2025-06-18 16:40:44.582] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2025-06-18 16:40:44.583] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2025-06-18 16:40:44.584] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2025-06-18 16:40:44.584] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2025-06-18 16:40:44.589] [info] Discovered appearance 'dark'
+[2025-06-18 16:40:44.589] [info] Using CSS file /home/rodrigogamer/.config/waybar/style.css
+[2025-06-18 16:40:44.690] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-18 16:40:44.708] [info] Hyprland IPC starting
+[2025-06-18 16:40:44.709] [error] Hyprland IPC: Unable to connect?
+[2025-06-18 16:40:44.709] [warning] module hyprland/workspaces#rw: Disabling module "hyprland/workspaces#rw", Hyprland IPC: Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 16:40:44.761] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.762] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.763] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.764] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-06-18 16:40:44.861] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-18 16:40:44.874] [warning] module hyprland/workspaces#rw: Disabling module "hyprland/workspaces#rw", Hyprland IPC: Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.935] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-18 16:40:44.936] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-06-18 16:40:45.501] [info] Bar configured (width: 2544, height: 34) for output: eDP-1
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.515: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.517: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.517: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-06-18 16:40:45.519] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.528: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.529: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:621765): Gtk-CRITICAL **: 16:40:45.530: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+jq: parse error: Invalid numeric literal at line 1, column 9
+Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+jq: parse error: Invalid numeric literal at line 1, column 9
+Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+Couldn't connect to /run/user/1000/hypr/918d8340afd652b011b937d29d5eea0be08467f5_1750257372_70245691/.socket.sock. (3)
+[2025-06-18 17:27:53.333] [info] Bar removed from output: DP-7
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 17:27:53.987: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 17:27:53.990: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 17:27:54.081: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 17:27:54.083: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:04.688: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:04.689: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:04.989: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:04.991: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:05.089: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:621765): LIBDBUSMENU-GLIB-WARNING **: 16:06:05.091: Unable to replace properties on 0: Error getting properties for ID
+jq: parse error: Invalid numeric literal at line 1, column 9
+jq: parse error: Invalid numeric literal at line 1, column 9
+Setting default parameters
+Gdk-Message: 20:19:33.399: Error reading events from display: Connection reset by peer
+[2025-06-26 09:52:32.543] [info] Using configuration file /home/rodrigogamer/.config/waybar/config
+[2025-06-26 09:52:32.543] [info] Including resource file: $HOME/.config/waybar/Modules
+[2025-06-26 09:52:32.544] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2025-06-26 09:52:32.544] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2025-06-26 09:52:32.545] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2025-06-26 09:52:32.545] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2025-06-26 09:52:32.553] [info] Discovered appearance 'dark'
+[2025-06-26 09:52:32.553] [info] Using CSS file /home/rodrigogamer/.config/waybar/style.css
+[2025-06-26 09:52:32.570] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-26 09:52:32.579] [info] Hyprland IPC starting
+[2025-06-26 09:52:32.580] [info] Loading persistent workspaces from Waybar config
+[2025-06-26 09:52:32.581] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-26 09:52:32.581] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-06-26 09:52:32.602] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.602] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.602] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.603] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-06-26 09:52:32.655] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-06-26 09:52:32.659] [info] Loading persistent workspaces from Waybar config
+[2025-06-26 09:52:32.659] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-06-26 09:52:32.659] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-06-26 09:52:32.679] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.111: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.111: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.111: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.111: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.112: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.112: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.112: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.112: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.113: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.113: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.115: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.116: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:3175931): Gtk-CRITICAL **: 09:52:33.116: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-06-26 09:52:33.189] [info] Bar configured (width: 2544, height: 34) for output: eDP-1
+[2025-06-26 09:52:33.190] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:46.485: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:46.490: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:46.578: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:46.581: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.188: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.190: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.289: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.293: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.391: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.396: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.492: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.496: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.591: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.596: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.695: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.699: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.794: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.799: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.891: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:49.895: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:51.911: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:51.914: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:52.514: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:52.517: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.116: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.120: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.829: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.836: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.925: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:53.934: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.025: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.030: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.822: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.826: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.925: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:53:54.930: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:55:59.892: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:55:59.897: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.307: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.312: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.418: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.425: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.513: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 09:56:34.519: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 10:21:23.266: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 10:21:23.270: Unable to replace properties on 0: Error getting properties for ID
+[2025-06-26 10:23:33.100] [info] Bar removed from output: DP-7
+[2025-06-26 11:31:36.319] [warning] Failed to parse IPC message: windowtitle>>63f4cb09b7e0, reason: in Json::Value::find(begin, end): requires objectValue or nullValue
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:18.959: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:18.961: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:20.260: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:20.262: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:20.360: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 11:43:20.362: Unable to replace properties on 0: Error getting properties for ID
+[2025-06-26 12:05:39.760] [warning] Failed to parse IPC message: windowtitle>>63f4cb09b7e0, reason: in Json::Value::find(begin, end): requires objectValue or nullValue
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 12:19:49.804: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 12:19:49.806: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 12:19:50.003: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 12:19:50.004: Unable to replace properties on 0: Error getting properties for ID
+[2025-06-26 14:48:11.481] [warning] Failed to parse IPC message: windowtitle>>63f4cb09b7e0, reason: in Json::Value::find(begin, end): requires objectValue or nullValue
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:39.746: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:39.761: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:39.883: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:39.900: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:40.002: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 18:01:40.058: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.634: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.695: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.769: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.780: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.846: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.864: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.917: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:34.929: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:35.023: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:35.029: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:48.937: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:48.943: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:49.035: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:09:49.039: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.050: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.053: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.187: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.217: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.267: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.274: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.387: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:3175931): LIBDBUSMENU-GLIB-WARNING **: 19:35:38.398: Unable to replace properties on 0: Error getting properties for ID
+Setting parameters for resolution >= 2.5k and < 4k
+Setting parameters for resolution >= 2.5k and < 4k
+Gdk-Message: 20:15:13.655: Error reading events from display: Connection reset by peer
