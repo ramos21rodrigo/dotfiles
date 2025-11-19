@@ -11,9 +11,11 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
+-- vim.lsp.set_log_level("trace")
+
 require("set")
 require("remap")
-
+require("lsp")
 require("lazy").setup("plugins")
 
-vim.cmd.colorscheme "catppuccin-frappe"
+vim.cmd.colorscheme "tokyonight-night"

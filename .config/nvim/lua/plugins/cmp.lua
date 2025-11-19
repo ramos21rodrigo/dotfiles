@@ -7,6 +7,7 @@ return {
       cmp.setup({
         sources = {
           { name = 'nvim_lsp' },
+          { name = 'buffer' },
         },
 
         mapping = cmp.mapping.preset.insert({

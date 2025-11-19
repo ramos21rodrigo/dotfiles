@@ -1,0 +1,648 @@
+[2025-09-21 19:38:20.532] [info] Using configuration file /home/rodrigogamer/.config/waybar/config
+[2025-09-21 19:38:20.532] [info] Including resource file: $HOME/.config/waybar/Modules
+[2025-09-21 19:38:20.533] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2025-09-21 19:38:20.534] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2025-09-21 19:38:20.534] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2025-09-21 19:38:20.535] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2025-09-21 19:38:20.541] [info] Discovered appearance 'dark'
+[2025-09-21 19:38:20.541] [info] Using CSS file /home/rodrigogamer/.config/waybar/style.css
+[2025-09-21 19:38:20.557] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-09-21 19:38:20.567] [info] Hyprland IPC starting
+[2025-09-21 19:38:20.569] [info] Loading persistent workspaces from Waybar config
+[2025-09-21 19:38:20.569] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-21 19:38:20.569] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-09-21 19:38:20.594] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-09-21 19:38:20.817] [info] Bar configured (width: 2544, height: 34) for output: eDP-1
+[2025-09-21 19:38:20.818] [error] Item '': No icon name or pixmap given.
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.892: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.893: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 19:38:20.893: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 20:06:56.602: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 20:06:56.684: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:37:30.525: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:37:30.629: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:37:30.718: Unable to replace properties on 0: Error getting properties for ID
+[2025-09-22 09:37:59.103] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-09-22 09:37:59.163] [info] Loading persistent workspaces from Waybar config
+[2025-09-22 09:37:59.163] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-22 09:37:59.164] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event24 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mouse4 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event23 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mouse3 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:37:59.196] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.477: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.478: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.478: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.479: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:37:59.479: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-09-22 09:37:59.511] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+[2025-09-22 09:38:00.869] [info] Bar removed from output: DP-7
+[2025-09-22 09:38:05.841] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-09-22 09:38:05.854] [info] Loading persistent workspaces from Waybar config
+[2025-09-22 09:38:05.854] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-09-22 09:38:05.860] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event24 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/mouse4 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event23 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event22 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event21 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event20 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/mouse3 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.892] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-09-22 09:38:05.893] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.087: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.088: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:613821): Gtk-CRITICAL **: 09:38:06.088: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-09-22 09:38:06.102] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:38:38.758: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:38:38.762: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:38:38.767: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:13.470: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:13.471: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:13.471: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:21.635: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:21.641: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:21.646: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:34.260: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:34.265: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:34.270: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:36.758: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:36.761: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:36.765: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:38.370: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:38.374: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:38.380: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:41.674: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:41.678: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:41.682: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:48.613: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:48.623: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:48.631: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.215: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.225: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.232: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.324: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.334: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:39:51.341: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:09.332: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:09.335: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:09.338: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:15.344: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:15.347: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:15.352: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.153: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.159: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.164: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.768: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.768: Unable to replace properties on 2752512: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.768: Unable to replace properties on 2752513: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.768: Unable to replace properties on 2752514: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.768: Unable to replace properties on 2752515: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.774: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.774: Unable to replace properties on 2752512: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.774: Unable to replace properties on 2752513: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.774: Unable to replace properties on 2752514: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.774: Unable to replace properties on 2752515: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.777: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.777: Unable to replace properties on 2752512: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.778: Unable to replace properties on 2752513: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.778: Unable to replace properties on 2752514: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.778: Unable to replace properties on 2752515: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.862: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.867: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:16.871: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:38.906: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:38.912: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:38.916: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:45.721: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:45.725: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:40:45.733: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:09.571: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:09.575: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:09.580: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.584: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.591: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.597: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.673: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.677: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.681: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.775: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.778: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.783: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.870: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.873: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:11.876: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:12.982: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:12.989: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:12.997: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:13.079: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:13.082: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:13.086: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.499: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.499: Unable to replace properties on 3473408: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.499: Unable to replace properties on 3866624: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.505: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.506: Unable to replace properties on 3866624: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.509: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.509: Unable to replace properties on 3866624: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.581: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.587: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.594: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.681: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.686: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.692: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.784: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.789: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.794: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.881: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.886: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.889: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.979: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.984: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:15.989: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.096: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.100: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.105: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.185: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.189: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.194: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.294: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.301: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:16.305: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.817: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.820: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.830: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.912: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.915: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:28.925: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:29.012: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:29.017: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:29.022: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:38.131: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:38.138: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:613821): LIBDBUSMENU-GLIB-WARNING **: 09:41:38.149: Unable to replace properties on 0: Error getting properties for ID
+Setting parameters for resolution >= 2k and < 2.5k
+Gdk-Message: 09:51:49.625: Error reading events from display: Connection reset by peer
+[2025-10-02 10:08:38.289] [info] Using configuration file /home/rodrigogamer/.config/waybar/config
+[2025-10-02 10:08:38.290] [info] Including resource file: $HOME/.config/waybar/Modules
+[2025-10-02 10:08:38.291] [info] Including resource file: $HOME/.config/waybar/ModulesWorkspaces
+[2025-10-02 10:08:38.291] [info] Including resource file: $HOME/.config/waybar/ModulesCustom
+[2025-10-02 10:08:38.291] [info] Including resource file: $HOME/.config/waybar/ModulesGroups
+[2025-10-02 10:08:38.292] [info] Including resource file: $HOME/.config/waybar/UserModules
+[2025-10-02 10:08:38.294] [info] Discovered appearance 'dark'
+[2025-10-02 10:08:38.294] [info] Using CSS file /home/rodrigogamer/.config/waybar/style.css
+[2025-10-02 10:08:38.302] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-10-02 10:08:38.306] [info] Hyprland IPC starting
+[2025-10-02 10:08:38.307] [info] Loading persistent workspaces from Waybar config
+[2025-10-02 10:08:38.307] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-10-02 10:08:38.307] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.317] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2025-10-02 10:08:38.336] [warning] Failed to open bar ipc connection: Socket path is empty
+[2025-10-02 10:08:38.338] [info] Loading persistent workspaces from Waybar config
+[2025-10-02 10:08:38.338] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-10-02 10:08:38.338] [info] Registering for Hyprland's 'windowtitle' events because a user-defined window rewrite rule uses the 'title' field.
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event19 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event18 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/mouse2 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.349] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2025-10-02 10:08:38.350] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.522: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.523: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.523: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:788463): Gtk-CRITICAL **: 10:08:38.524: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-10-02 10:08:38.659] [info] Bar configured (width: 2544, height: 34) for output: eDP-1
+[2025-10-02 10:08:38.660] [info] Bar configured (width: 3424, height: 34) for output: DP-7
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 10:15:19.150: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 10:15:19.151: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 10:18:56.438: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 10:18:56.440: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:01:17.940: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:01:17.941: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:01:18.238: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:01:18.239: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:55.748: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:55.753: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:56.858: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:56.871: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:56.964: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 11:36:56.971: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 12:06:52.269: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 12:06:52.273: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 12:06:52.466: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 12:06:52.469: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:03.237: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:03.239: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:04.233: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:04.234: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:04.331: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:05:04.334: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:11:35.213: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:11:35.215: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:11:35.514: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:11:35.515: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:16:39.790: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:16:39.791: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:16:44.901: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:16:44.902: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:08.545: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:08.552: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:09.648: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:09.649: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:10.247: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:10.250: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:18.988: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:18.989: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:19.090: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:19.092: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:19.193: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 14:17:19.195: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 15:02:51.765: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 15:02:51.767: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 15:02:51.966: Unable to replace properties on 0: Error getting properties for ID
+
+(waybar:788463): LIBDBUSMENU-GLIB-WARNING **: 15:02:51.967: Unable to replace properties on 0: Error getting properties for ID
+Setting parameters for resolution >= 2.5k and < 4k
+Gdk-Message: 16:44:55.170: Error reading events from display: Connection reset by peer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

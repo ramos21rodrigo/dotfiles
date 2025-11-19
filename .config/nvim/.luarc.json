@@ -1,6 +1,8 @@
 {
     "diagnostics.globals": [
         "vim",
-        "if"
+        "if",
+        "compatibilites",
+        "lspconfig"
     ]
 }
