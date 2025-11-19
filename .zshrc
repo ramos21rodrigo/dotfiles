@@ -14,7 +14,7 @@ source ~/ctw/scripts/init
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="cloud"
+ZSH_THEME="josh"
 TERMINAL="gnome-terminal"
 
 # Set list of themes to pick from when loading at random
@@ -120,12 +120,17 @@ alias cd="z"
 alias cdi="zi"
 
 vim () {
-  nvim "$1"
+  /opt/nvim-linux-x86_64/bin/nvim "$1"
+}
+
+mkcd (){
+  mkdir "$1"
+  cd "$1"
 }
 
 studio ()
 {
-  sh /opt/android-studio/bin/studio.sh "$1" > /dev/null 2>&1 &                                                                                                   
+  sh /opt/android-studio/bin/studio.sh "$1" > /dev/null 2>&1 
 }
 
 # zsh-autosuggestions
