@@ -15,7 +15,8 @@ Clone dotfiles
 ```
 git clone git@github.com:ramos21rodrigo/dotfiles.git
 cd dotfiles
-stow .
+stow --adopt .
+git reset --hard
 ```
 
 [oh-my-zsh](https://ohmyz.sh/) + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) + [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -35,6 +36,6 @@ mv ~/.zshrc.pre-oh-my-zsh ~/.zshrc
 themes
 ```
 
-neovim
-> https://github.com/neovim/neovim/blob/master/INSTALL.md
+[neovim](https://github.com/neovim/neovim/blob/master/INSTALL.md)
+[albet](https://albertlauncher.github.io/gettingstarted/installatio) 
 
