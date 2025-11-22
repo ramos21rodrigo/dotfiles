@@ -7,14 +7,7 @@ might need a reboot
 
 
 ```
-sudo apt install -y git \
-                    stow \
-                    build-essential \
-                    neovim \
-                    zsh \
-                    curl \
-                    zoxide \
-                    tmux \
+sudo apt install -y git stow build-essential zsh curl zoxide tmux fzf
 ```
 
 Clone dotfiles
@@ -41,3 +34,7 @@ mv ~/.zshrc.pre-oh-my-zsh ~/.zshrc
 ``` 
 themes
 ```
+
+neovim
+> https://github.com/neovim/neovim/blob/master/INSTALL.md
+
