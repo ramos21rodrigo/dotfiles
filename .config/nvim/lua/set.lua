@@ -3,6 +3,7 @@ local opt = vim.opt
 vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
 
+
 opt.nu = true
 opt.relativenumber = true
 
@@ -20,6 +21,8 @@ opt.undofile = true
 
 opt.incsearch = true
 opt.scrolloff = 8
+
+opt.completeopt="preview"
 
 vim.cmd [[autocmd BufWritePre * lua vim.lsp.buf.format()]]
 vim.g.mapleader = " "

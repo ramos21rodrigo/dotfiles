@@ -1,5 +1,6 @@
 [General]
 frontend=widgetsboxmodel
+showTray=true
 telemetry=false
 
 [application]
@@ -20,29 +21,67 @@ enabled=true
 [chromium]
 enabled=true
 
+[clipboard]
+enabled=true
+
+[datetime]
+enabled=false
+
+[docs]
+enabled=true
+
 [mediaremote]
 enabled=true
 trigger=mr
 
 [spotify]
-enabled=true
-
-[websearch]
 enabled=false
 
+[system]
+command_lock=hyprlock
+command_reboot=systemctl reboot
+enabled=false
+title_reboot=restart
+
+[websearch]
+enabled=true
+
 [widgetsboxmodel]
+action_item_padding=6
+action_item_selection_border_radius=11
+action_item_selection_border_width=0
 alwaysOnTop=true
-clearOnHide=false
+clearOnHide=true
 clientShadow=true
+darkTheme=Nord Light
+disable_input_method=true
 displayScrollbar=false
 followCursor=true
 hideOnFocusLoss=true
 historySearch=true
+input_border_radius=11
+input_font_size=32
+input_padding=5
 itemCount=5
-lightTheme=Default Dark
+lightTheme=Nord Dark
 quitOnClose=false
+result_item_horizontal_spacing=6
+result_item_icon_size=39
+result_item_padding=6
+result_item_selection_border_radius=11
+result_item_selection_border_width=0
+result_item_subtext_font_size=13
+result_item_text_font_size=18
+result_item_vertical_spacing=2
 showCentered=true
 systemShadow=true
+window_border_radius=0
+window_border_width=0
+window_padding=0
+window_shadow_offset=0
+window_shadow_size=0
+window_spacing=0
+window_width=1280
 
 [widgetsboxmodel-ng]
 alwaysOnTop=true

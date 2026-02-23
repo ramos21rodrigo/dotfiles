@@ -15,7 +15,7 @@ vim.opt.rtp:prepend(lazypath)
 
 require("set")
 require("remap")
-require("lsp")
 require("lazy").setup("plugins")
+require("lsp")
 
 vim.cmd.colorscheme "tokyonight-night"

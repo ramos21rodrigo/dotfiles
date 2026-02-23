@@ -133,6 +133,11 @@ studio ()
   sh /opt/android-studio/bin/studio.sh "$1" > /dev/null 2>&1 
 }
 
+issue () {
+  sh /android/download/run_downloader.sh "$@"
+}
+
+
 # zsh-autosuggestions
 bindkey '^y' autosuggest-accept
 

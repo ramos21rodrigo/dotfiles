@@ -6,7 +6,7 @@
   path = ~/ctw/.gitconfig
 
 [core]
-	editor = nvim
+	editor = "/opt/nvim-linux-x86_64/bin/nvim"
 	protectNTFS = false
 	longpaths = true
 [credential]
